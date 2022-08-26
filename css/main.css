@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+}
+a {
+    text-decoration: none;
+}
+li {
+    list-style-type: none;
+    margin-top: 10px;
+    font-size: 10px;
+}
+li:hover {
+    color: blue;
+    cursor: pointer;
+}
+.img-logo {
+    margin-top: 20px;
+}
+.texit_one {
+    margin-top: -400px;
+    font-size: 50px;
+}
+.texit_one_two {
+    font-size: 70px;
+}
+.texit_one_there {
+    font-size: 30px;
+}
